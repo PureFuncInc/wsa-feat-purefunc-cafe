@@ -3,7 +3,7 @@
 
 # Introduction
 * 舉辦時間: 2023 每週三 晚上九點
-* 舉辦地點: [線上 Discord 頻道](https://discord.gg/purefunc)
+* 舉辦地點: [線上 Discord 頻道](https://discord.gg/waterballsa)
 * 活動錄影: [YouTube 播放清單](https://youtube.com/playlist?list=PLC3hT4Z5I-O4V2g1oU-pkxp6Wr72ozhgk)
 
 # Record
