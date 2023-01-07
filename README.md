@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/PureFuncInc/purefunc-cafe/main/images/logo.png)
 
 # Preface
-* 2022 我們做了一年 51 次的純函式咖啡，感謝所有一路陪著我們走過來的朋友們
+* 2022 我們做了一年 51 次的[純函式咖啡](https://github.com/PureFuncInc/purefunc-cafe)，感謝所有一路陪著我們走過來的朋友們
 * 回顧這一年，我們的內容大概有這幾種類型：來賓訪談、時事延伸、分享社群消息、即興互動、純函式技術週報
 * 今年我們會基於過去的基礎，在跟水球軟體學院合作的過程中碰撞出更多點子，敬請大家期待
 
