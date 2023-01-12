@@ -8,4 +8,4 @@
 * https://purefunc.news
 
 # 影片
-* https://youtu.be/
+* https://youtu.be/Wq1cqqzrFZ0
