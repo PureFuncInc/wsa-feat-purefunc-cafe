@@ -3,7 +3,7 @@
 
 # 畫靶遊戲
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues?q=is%3Aopen+is%3Aissue+label%3A%22WSA+ft.+%24_purefunc+Cafe+2023+Goals%22
-* Waketime
+* https://wakatime.com/
 
 # News
 * https://purefunc.news
