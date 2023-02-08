@@ -10,4 +10,4 @@
 * https://purefunc.news
 
 # 影片
-* 
+* https://youtu.be/QiVtaaYpWZ0
