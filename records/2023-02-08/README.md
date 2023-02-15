@@ -12,4 +12,4 @@
 * https://github.com/PureFuncInc/pure-backend-practice/blob/main/README.md
 
 # 影片
-* 
+* https://youtu.be/GTqgOeOGTd4
