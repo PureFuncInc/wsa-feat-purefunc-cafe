@@ -19,3 +19,6 @@
 # News
 * WTM
   * https://wtmtw.kktix.cc/events/wtmiwd23
+* https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html 
+* https://codepen.io/2022/popular/pens/
+* https://github.com/PureFuncInc/docker-compose
