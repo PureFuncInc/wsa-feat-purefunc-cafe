@@ -11,5 +11,11 @@
 * 謝謝 LarryYang https://youtu.be/JYjsXoI8Too
 * 謝謝 ksCaesar https://youtu.be/mIm87eNv7KE
 
+# ChatGPT
+* https://www.facebook.com/groups/179345672472/permalink/10159717137052473/
+* Sample Code
+* SQL
+* Regex
+
 # News
 * 
