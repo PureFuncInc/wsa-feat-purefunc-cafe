@@ -18,4 +18,7 @@
 * Regex
 
 # News
-* 
+* https://twitter.com/alexxubyte/status/1637842698995642368
+* https://twitter.com/alexxubyte/status/1633509145335988224
+* https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7041664329175212032-h-Rp
+* https://github.com/f/awesome-chatgpt-prompts
