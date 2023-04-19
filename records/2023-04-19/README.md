@@ -17,3 +17,4 @@
 # News
 * https://bard.google.com/
 * https://www.blocktempo.com/beware-of-new-telegram-scams/
+* https://github.com/oracle/graal/issues/5327
