@@ -12,19 +12,20 @@
 * 活動錄影: [YouTube 播放清單](https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN)
 
 # Record
-| 影片 | 紀錄 |
-| :---: | :--- |
-| [🎞]() | [0️⃣1️⃣4️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣1️⃣9️⃣](records/2023-04-19/README.md) |
-| [🎞](https://youtu.be/6e9z6gOb7hY) | [0️⃣1️⃣3️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣1️⃣2️⃣](records/2023-04-12/README.md) |
-| [🎞](https://youtu.be/HXFkSg1w6Fw) | [0️⃣1️⃣2️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣0️⃣5️⃣](records/2023-04-05/README.md) |
-| [🎞](https://youtu.be/ABtimJz1MAA) | [0️⃣1️⃣1️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣2️⃣2️⃣](records/2023-03-22/README.md) |
-| [🎞](https://youtu.be/mIm87eNv7KE) | [0️⃣1️⃣0️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣1️⃣5️⃣](records/2023-03-15/README.md) |
-| [🎞](https://youtu.be/JYjsXoI8Too) | [0️⃣0️⃣9️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣0️⃣8️⃣](records/2023-03-08/README.md) |
-| [🎞](https://youtu.be/iI6FBCOicgY) | [0️⃣0️⃣8️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣0️⃣1️⃣](records/2023-03-01/README.md) |
-| [🎞](https://youtu.be/lVBMboSfMF8) | [0️⃣0️⃣7️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣2️⃣2️⃣](records/2023-02-22/README.md) |
-| [🎞](https://youtu.be/Ae27ofdcW4I) | [0️⃣0️⃣6️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣1️⃣5️⃣](records/2023-02-15/README.md) |
-| [🎞](https://youtu.be/GTqgOeOGTd4) | [0️⃣0️⃣5️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣0️⃣8️⃣](records/2023-02-08/README.md) |
-| [🎞](https://youtu.be/QiVtaaYpWZ0) | [0️⃣0️⃣4️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣0️⃣1️⃣](records/2023-02-01/README.md) |
-| [🎞](https://youtu.be/XLVdXzTFdK8) | [0️⃣0️⃣3️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣1️⃣2️⃣5️⃣](records/2023-01-25/README.md) |
-| [🎞](https://youtu.be/MplMS9LM-ZU) | [0️⃣0️⃣2️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣1️⃣1️⃣8️⃣](records/2023-01-18/README.md) |
-| [🎞](https://youtu.be/Wq1cqqzrFZ0) | [0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣1️⃣1️⃣1️⃣](records/2023-01-11/README.md) |
+| 影片 | 紀錄 | 主題 |
+| :---: | :--- | :--- |
+| [🎞]() | [0️⃣1️⃣5️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣2️⃣6️⃣](records/2023-04-26/README.md) | 水球經紀事務所偶像練習生出道拉！✨ |
+| [🎞](https://youtu.be/SXMN1YP5d9g) | [0️⃣1️⃣4️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣1️⃣9️⃣](records/2023-04-19/README.md) | |
+| [🎞](https://youtu.be/6e9z6gOb7hY) | [0️⃣1️⃣3️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣1️⃣2️⃣](records/2023-04-12/README.md) | ChatGPT太火 歐盟備戰更嚴格AI規定 🔥 |
+| [🎞](https://youtu.be/HXFkSg1w6Fw) | [0️⃣1️⃣2️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣4️⃣0️⃣5️⃣](records/2023-04-05/README.md) | 看到推特 icon 變成 doge 你的感想是？ 🐶 |
+| [🎞](https://youtu.be/ABtimJz1MAA) | [0️⃣1️⃣1️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣2️⃣2️⃣](records/2023-03-22/README.md) | 來了來了，法律戰要來了，OpenAI 不再 Open 🈲 |
+| [🎞](https://youtu.be/mIm87eNv7KE) | [0️⃣1️⃣0️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣1️⃣5️⃣](records/2023-03-15/README.md) | SVB 爆炸中之一波未平一波又起 🚨 |
+| [🎞](https://youtu.be/JYjsXoI8Too) | [0️⃣0️⃣9️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣0️⃣8️⃣](records/2023-03-08/README.md) | 還是我們來跟 ChatGPT 面試一下 🔮 |
+| [🎞](https://youtu.be/iI6FBCOicgY) | [0️⃣0️⃣8️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣3️⃣0️⃣1️⃣](records/2023-03-01/README.md) | |
+| [🎞](https://youtu.be/lVBMboSfMF8) | [0️⃣0️⃣7️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣2️⃣2️⃣](records/2023-02-22/README.md) | |
+| [🎞](https://youtu.be/Ae27ofdcW4I) | [0️⃣0️⃣6️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣1️⃣5️⃣](records/2023-02-15/README.md) | 以後發表會的時候記得先把手機收好 📱 |
+| [🎞](https://youtu.be/GTqgOeOGTd4) | [0️⃣0️⃣5️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣0️⃣8️⃣](records/2023-02-08/README.md) | The不讓要破NBA得分紀錄拉 🏀 |
+| [🎞](https://youtu.be/QiVtaaYpWZ0) | [0️⃣0️⃣4️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣2️⃣0️⃣1️⃣](records/2023-02-01/README.md) | 微軟主委再加碼AI之這個年不好過大家要冷靜 🥶 |
+| [🎞](https://youtu.be/XLVdXzTFdK8) | [0️⃣0️⃣3️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣1️⃣2️⃣5️⃣](records/2023-01-25/README.md) | 蘋果是我們最後的堡壘 🧱 |
+| [🎞](https://youtu.be/MplMS9LM-ZU) | [0️⃣0️⃣2️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣1️⃣1️⃣8️⃣](records/2023-01-18/README.md) | |
+| [🎞](https://youtu.be/Wq1cqqzrFZ0) | [0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣1️⃣1️⃣1️⃣](records/2023-01-11/README.md) | 全民一起做 2022 的 review 和 2023 的 preview 吧 💪 |
