@@ -15,6 +15,7 @@
 * <img width="674" alt="CleanShot 2023-05-03 at 20 42 56@2x" src="https://user-images.githubusercontent.com/6296280/235919304-86e89358-6182-4fe7-b7e6-5a776b8a05fd.png">
 
 # 傘店面試
+* https://www.youtube.com/watch?v=OXuwMfu9k5k
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/13
 
 # 全民插旗子
