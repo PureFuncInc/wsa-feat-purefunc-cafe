@@ -11,6 +11,8 @@
 # 演講天團
 * https://discord.com/channels/937992003415838761/1098799697616982127
 
+# Spring Boot Zero to Oreo
+
 # 無情工商
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/15
 
@@ -22,11 +24,9 @@
 4️⃣ 演講天團
 5️⃣ 無情工商
 6️⃣ 廣播電台
+7️⃣ 藏經閣
 
 # 傘店面試
 * https://www.youtube.com/watch?v=OXuwMfu9k5k
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/13
 
-# 全民插旗子
-
-# 藏經閣
