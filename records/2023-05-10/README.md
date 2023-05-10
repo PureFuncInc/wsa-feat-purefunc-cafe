@@ -1,8 +1,12 @@
 # 快速回顧一下上個禮拜 
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-03
 
+# 近期活動
+* https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-15
+
 # News
-* 
+* https://www.inside.com.tw/article/31528-openai-lost-540-million-developing
+* https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 
 # 演講天團
 * https://discord.com/channels/937992003415838761/1098799697616982127
