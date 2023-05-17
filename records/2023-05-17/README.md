@@ -8,7 +8,7 @@
 * https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-15
 
 新聞
-* 
+* ...
 
 子活動部分
 :one: 閃電面試
@@ -17,6 +17,7 @@
 
 :two: 全民插旗子
 * https://discord.com/channels/937992003415838761/1067781868709220432
+* https://discord.com/channels/937992003415838761/1095987934307553320
 
 :three: Spring Boot from Zero to Oreo
 * https://github.com/PureFuncInc/spring-boot-zero-to-oreo
