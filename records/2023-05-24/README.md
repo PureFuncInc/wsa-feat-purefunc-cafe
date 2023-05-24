@@ -1,14 +1,14 @@
-:magic_wand: WSA ft. $_purefunc Cafe 05/17 :magic_wand: - 你們的王國之淚玩到哪了 :joystick:
+🪄 WSA ft. $_purefunc Cafe 05/24 🪄 - 政府今年要求1千4百多家公司設置專責資安單位，目前僅2成達標 ㊙️
 
-[上禮拜回顧](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-10)
+[上禮拜回顧](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-17)
 
-本日主題是 -> 你們的王國之淚玩到哪了 :joystick:
+本日主題是 -> 政府今年要求1千4百多家公司設置專責資安單位，目前僅2成達標 ㊙️
 
 近期活動
 * https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-15
 
 新聞
-* ...
+* 無
 
 子活動部分
 :one: 閃電面試
@@ -36,7 +36,7 @@
 :seven: 迷你問答
 * ..
 
-:movie_camera: 上禮拜的影片在這邊 https://youtu.be/aZfnebEnbJk
+:movie_camera: 上禮拜的影片在這邊 https://youtu.be/
 
 我們的 GitHub 會紀錄所有的內容
 https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
@@ -44,4 +44,4 @@ https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 最後，活動時間跟連結在這邊呦
 
 :alarm_clock: 2023 每週三 晚上九點
-:link: https://discord.com/events/937992003415838761/1107702601203589304
+:link: https://discord.com/events/937992003415838761/1110912539384094750
