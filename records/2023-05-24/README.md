@@ -1,8 +1,8 @@
 🪄 WSA ft. $_purefunc Cafe 05/24 🪄 - 政府今年要求1千4百多家公司設置專責資安單位，目前僅2成達標 ㊙️
 
 :movie_camera: 上禮拜的紀錄跟影片在這邊
-https://youtu.be/rtIQ1JkRY5k
-https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-17
+* https://youtu.be/rtIQ1JkRY5k
+* https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-17
 
 本日主題是 -> 政府今年要求1千4百多家公司設置專責資安單位，目前僅2成達標 ㊙️
 
@@ -33,10 +33,12 @@ https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-
 * https://discord.com/channels/937992003415838761/1093901418848587826
 
 :six: 廣播電台
-* ..
+* 轉職問題
 
 :seven: 迷你問答
-* ..
+* ![IMG_6580](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/assets/6296280/b3ed5719-1669-4cf1-87ab-c288558732dc)
+* ![IMG_6581](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/assets/6296280/7975810c-216b-4137-b817-aef2d633d916)
+
 
 我們的 GitHub 會紀錄所有的內容
 https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
