@@ -1,16 +1,16 @@
-🪄 WSA ft. $_purefunc Cafe 05/24 🪄 - 政府今年要求1千4百多家公司設置專責資安單位，目前僅2成達標 ㊙️
+🪄 WSA ft. $_purefunc Cafe 05/31 🪄 - Run! Don't Walk 🏃
 
 :movie_camera: 上禮拜的紀錄跟影片在這邊
 * https://youtu.be/1AEOcSpVgUk
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-24
 
-本日主題是 -> 政府今年要求1千4百多家公司設置專責資安單位，目前僅2成達標 ㊙️
+本日主題是 -> Run! Don't Walk 🏃
 
 近期活動
 * https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-15
 
 新聞
-* 無
+* 麻花捲
 
 子活動部分
 :one: 閃電面試
@@ -33,12 +33,10 @@
 * https://discord.com/channels/937992003415838761/1093901418848587826
 
 :six: 廣播電台
-* 轉職問題
+* ..
 
 :seven: 迷你問答
-* ![IMG_6580](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/assets/6296280/b3ed5719-1669-4cf1-87ab-c288558732dc)
-* ![IMG_6581](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/assets/6296280/7975810c-216b-4137-b817-aef2d633d916)
-
+* ..
 
 我們的 GitHub 會紀錄所有的內容
 https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
@@ -46,4 +44,4 @@ https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 最後，活動時間跟連結在這邊呦
 
 :alarm_clock: 2023 每週三 晚上九點
-:link: https://discord.com/events/937992003415838761/1110912539384094750
+:link: https://discord.com/events/937992003415838761/1112992060316864543
