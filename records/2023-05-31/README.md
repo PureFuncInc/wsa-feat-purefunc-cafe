@@ -10,7 +10,9 @@
 * https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-15
 
 新聞
-* 麻花捲
+* https://ccc.technews.tw/2023/05/26/nvidia-jensen-huang/
+* https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/blob/main/records/2023-03-01/README.md
+* https://www.ithome.com.tw/news/157079
 
 子活動部分
 
