@@ -8,6 +8,7 @@
 
 近期活動
 * https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-15
+* https://webcommwebinar.kktix.cc/events/0616
 
 新聞
 * https://ccc.technews.tw/2023/05/26/nvidia-jensen-huang/
