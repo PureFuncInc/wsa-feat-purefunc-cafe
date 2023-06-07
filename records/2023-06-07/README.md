@@ -4,7 +4,7 @@
 * https://www.youtube.com/watch?v=ymm2OMaLixU
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/tree/main/records/2023-05-31
 
-本日主題是 -> Run! Don't Walk 🏃
+本日主題是 -> $3,499 太貴不是我大蘋果的問題，問題是你沒錢 🍎
 
 近期活動
 * https://gdg.community.dev/events/details/google-gdg-taipei-presents-kotlin-annual-meetup-2023
