@@ -7,6 +7,7 @@
 本日主題是 -> Reddit API 收費割起來 🔪
 
 近期活動
+* https://pretalx.com/jcconf-2023/cfp
 * https://webcommwebinar.kktix.cc/events/0616
 
 新聞
