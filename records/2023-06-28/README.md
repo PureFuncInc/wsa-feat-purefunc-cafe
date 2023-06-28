@@ -8,10 +8,12 @@
 
 近期活動
 * https://pretalx.com/jcconf-2023/cfp
-* https://webcommwebinar.kktix.cc/events/0616
+* https://webconf.tw/#/
 
 新聞
-* h
+* https://blog.matt-rickard.com/p/reflections-on-10000-hours-of-devops
+* https://www.facebook.com/hinet/posts/pfbid036XVFePFeA4qkCEWzii1adbD2AUMGBZXFsQGNz5odbyaT59GXQK4m4rjgecuGyWudl
+* https://developers.redhat.com/devnation/dnd/dnd-kubernetes-2022
 
 子活動部分
 
@@ -36,12 +38,9 @@
 
 :six: 廣播電台
 :seven: 迷你問答
-* https://www.ptt.cc/bbs/Soft_Job/M.1685626794.A.29B.html
-
-我們的 GitHub 會紀錄所有的內容
-https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
+* 大力水手
 
 最後，活動時間跟連結在這邊呦
 
 :alarm_clock: 2023 每週三 晚上九點
-:link: https://discord.gg/waterballsa?event=1121056442267488316
+:link: https://discord.gg/waterballsa?event=1123592511894593596
