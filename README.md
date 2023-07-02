@@ -14,7 +14,8 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :---: | :--- | :--- |
-| [🎞]() | [0️⃣2️⃣3️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣6️⃣2️⃣1️⃣](records/2023-06-21/README.md) | 是不是跟你們說買 Meta 😎 |
+| [🎞](https://youtu.be/hM6nyhRBGwc) | [0️⃣2️⃣4️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣6️⃣2️⃣8️⃣](records/2023-06-28/README.md) | 世上只有媽媽好，只有她管得動首富 👋 |
+| [🎞](https://youtu.be/mnwxn2m4nIA) | [0️⃣2️⃣3️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣6️⃣2️⃣1️⃣](records/2023-06-21/README.md) | 是不是跟你們說買 Meta 😎 |
 | [🎞](https://youtu.be/kZlTt0egrSA) | [0️⃣2️⃣2️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣6️⃣1️⃣4️⃣](records/2023-06-14/README.md) | Reddit API 收費割起來 🔪 |
 | [🎞](https://youtu.be/muNNclqXj5U) | [0️⃣2️⃣1️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣6️⃣0️⃣7️⃣](records/2023-06-07/README.md) | $3,499 太貴不是我大蘋果的問題，問題是你沒錢 🍎 |
 | [🎞](https://youtu.be/ymm2OMaLixU) | [0️⃣2️⃣0️⃣ 2️⃣0️⃣2️⃣3️⃣ 0️⃣5️⃣3️⃣1️⃣](records/2023-05-31/README.md) | Run! Don't Walk 🏃 |
