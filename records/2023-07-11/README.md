@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 07/11 🪄 - bluesky 讓我想起 clubhouse 🥹
+🪄 WSA ft. $_purefunc Cafe 07/11 🪄 - Threads 註冊人數破億 ☄
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
