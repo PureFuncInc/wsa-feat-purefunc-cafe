@@ -8,6 +8,9 @@
 
 近期活動
 * https://webconf.tw/#/
+* https://modernweb.tw/CFP
+* https://cloudsummit.ithome.com.tw/
+* https://coscup.org/2023/zh-TW/session
 
 新聞
 * https://cloud.tencent.com/developer/article/2144162
