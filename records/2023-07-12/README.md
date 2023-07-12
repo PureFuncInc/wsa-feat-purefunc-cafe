@@ -4,16 +4,17 @@
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 
-本日主題是 -> bluesky 讓我想起 clubhouse 🥹
+本日主題是 -> Threads 註冊人數破億 ☄
 
 近期活動
 * https://webconf.tw/#/
 
 新聞
 * https://cloud.tencent.com/developer/article/2144162
-* line
-* thread
-* tesla
+* https://www.youtube.com/watch?v=J9pIDUO6oN0
+* https://applealmond.com/posts/192913
+* Thread
+* Tesla
 
 子活動部分
 
@@ -37,11 +38,10 @@
 * https://discord.com/channels/937992003415838761/1093901418848587826
 
 :six: 廣播電台
-* 新手der徬徨
+* 
 
 :seven: 迷你問答
-* 糕流量？
-* https://discord.com/channels/937992003415838761/1125423418213408768
+* 
 
 最後，活動時間跟連結在這邊呦
 
