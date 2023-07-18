@@ -15,6 +15,7 @@
 新聞
 * https://twitter.com/elonmusk/status/1679992267111809024?s=20
 * https://hk.news.yahoo.com/%E7%BE%8E%E4%BA%BA%E9%AD%9A-dua-lipa-%E8%82%AF%E5%B0%BC-john-cena-barbie-003016804.html
+* https://news.mydrivers.com/1/922/922097.htm
 
 子活動部分
 
