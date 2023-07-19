@@ -14,8 +14,9 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :---: | :--- | :--- |
-| [🎞]() | [026 2023 0712](records/2023-07-12/README.md) | Threads 註冊人數破億 ☄ |
-| [🎞]() | [025 2023 0705](records/2023-07-05/README.md) | bluesky 讓我想起 clubhouse 🥹 |
+| [🎞]() | [027 2023 0719](records/2023-07-19/README.md) | 蘇媽來台灣拿特製版大乖乖🍭 |
+| [🎞](https://youtu.be/i9jqVcu67nQ) | [026 2023 0712](records/2023-07-12/README.md) | Threads 註冊人數破億 ☄ |
+| [🎞](https://youtu.be/RWTtF4W58Y4) | [025 2023 0705](records/2023-07-05/README.md) | bluesky 讓我想起 clubhouse 🥹 |
 | [🎞](https://youtu.be/hM6nyhRBGwc) | [024 2023 0628](records/2023-06-28/README.md) | 世上只有媽媽好，只有她管得動首富 👋 |
 | [🎞](https://youtu.be/mnwxn2m4nIA) | [023 2023 0621](records/2023-06-21/README.md) | 是不是跟你們說買 Meta 😎 |
 | [🎞](https://youtu.be/kZlTt0egrSA) | [022 2023 0614](records/2023-06-14/README.md) | Reddit API 收費割起來 🔪 |
