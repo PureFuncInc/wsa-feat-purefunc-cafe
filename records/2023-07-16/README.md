@@ -1,10 +1,10 @@
-🪄 WSA ft. $_purefunc Cafe 07/12 🪄 - Threads 註冊人數破億 ☄
+🪄 WSA ft. $_purefunc Cafe 07/19 🪄 - 蘇媽來台灣拿特製版大乖乖🍭
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 
-本日主題是 -> Threads 註冊人數破億 ☄
+本日主題是 -> 蘇媽來台灣拿特製版大乖乖🍭
 
 近期活動
 * https://webconf.tw/#/
