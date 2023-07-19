@@ -7,9 +7,10 @@
 本日主題是 -> 蘇媽來台灣拿特製版大乖乖🍭
 
 近期活動
-* https://webconf.tw/#/
 * https://modernweb.tw/CFP
+* https://mopcon.kktix.cc/events/mopcon2023-cfp
 * https://cloudsummit.ithome.com.tw/
+* https://webconf.tw/#/
 * https://coscup.org/2023/zh-TW/session
 
 新聞
