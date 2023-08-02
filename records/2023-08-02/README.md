@@ -1,15 +1,17 @@
-🪄 WSA ft. $_purefunc Cafe 07/26 🪄 - x.com 🙅‍♂️
+🪄 WSA ft. $_purefunc Cafe 08/02 🪄 - 法說會變法會，突如其來的颱風假 💨
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 
-本日主題是 -> 蘇媽來台灣拿特製版大乖乖🍭
+本日主題是 -> 法說會變法會，突如其來的颱風假 💨
 
 近期活動
-* https://modernweb.tw/CFP
-* https://mopcon.kktix.cc/events/mopcon2023-cfp
 * https://webconf.tw/#/
+* https://conference.ddd-tw.com/2023/zh-Hant
+* https://modernweb.tw/CFP
+* https://jcconf.tw/2023/
+* https://mopcon.kktix.cc/events/mopcon2023-cfp
 
 新聞
 * RIP Twitter
