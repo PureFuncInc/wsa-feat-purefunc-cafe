@@ -8,6 +8,7 @@
 
 近期活動
 * https://webconf.tw/#/
+* https://laravelconf.tw/
 * https://conference.ddd-tw.com/2023/zh-Hant
 * https://modernweb.tw/CFP
 * https://jcconf.tw/2023/
