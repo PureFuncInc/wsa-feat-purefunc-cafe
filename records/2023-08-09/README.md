@@ -13,11 +13,11 @@
 * https://modernweb.tw/CFP
 * https://jcconf.tw/2023/
 * https://mopcon.kktix.cc/events/mopcon2023-cfp
+* https://user170742.psee.io/KObookclub
 
 新聞
-* RIP Twitter
-* Framework
-* https://www.codingfont.com/
+* https://www.blocktempo.com/musk-said-his-fight-with-zuckerberg-will-be-broadcast-live-on-x/
+* https://tw.news.yahoo.com/threads%E5%95%8F%E4%B8%96%E5%B8%B3%E6%88%B6%E6%95%B8%E9%AB%98%E9%81%941%E5%84%84-%E5%9B%BA%E5%AE%9A%E4%BD%BF%E7%94%A8%E8%80%85%E5%8D%BB%E6%8E%89%E9%80%BE8%E6%88%90-090714188.html
 
 子活動部分
 
