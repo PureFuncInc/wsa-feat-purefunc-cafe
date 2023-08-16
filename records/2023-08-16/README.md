@@ -1,10 +1,10 @@
-🪄 WSA ft. $_purefunc Cafe 08/16 🪄 - 鐵籠戰真的要打了嗎 ⛓
+🪄 WSA ft. $_purefunc Cafe 08/16 🪄 - 大家好，我叫做 誼郎馬斯克 👽
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 
-本日主題是 -> 鐵籠戰真的要打了嗎 ⛓
+本日主題是 -> 大家好，我叫做 誼郎馬斯克 👽
 
 近期活動
 * https://laravelconf.tw/
