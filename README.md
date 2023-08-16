@@ -14,7 +14,7 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
-| [``🎞``]() | [``031 2023 0816``](records/2023-08-16/README.md) | 大家好我叫做馬誼郎 🥸 |
+| [``🎞``]() | [``031 2023 0816``](records/2023-08-16/README.md) | 大家好，我叫做 誼郎馬斯克 👽 |
 | [``🎞``](https://youtu.be/FHDiijdcDTc) | [``030 2023 0809``](records/2023-08-09/README.md) | 鐵籠戰真的要打了嗎 ⛓ |
 | [``🎞``](https://youtu.be/D2HZbbE9h-s) | [``029 2023 0802``](records/2023-08-02/README.md) | 法說會變法會，突如其來的颱風假 💨 |
 | [``🎞``](https://youtu.be/tZtUF2gyJeg) | [``028 2023 0726``](records/2023-07-26/README.md) | x.com 🙅‍♂️ |
