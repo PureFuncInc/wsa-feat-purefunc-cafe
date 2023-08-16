@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 08/09 🪄 - 鐵籠戰真的要打了嗎 ⛓
+🪄 WSA ft. $_purefunc Cafe 08/16 🪄 - 鐵籠戰真的要打了嗎 ⛓
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -17,6 +17,7 @@
 
 新聞
 * https://www.ithome.com.tw/news/158228
+* https://abmedia.io/gary-gensler-takes-aim-at-ai
 
 子活動部分
 
