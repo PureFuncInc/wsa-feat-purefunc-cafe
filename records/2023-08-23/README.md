@@ -9,12 +9,15 @@
 近期活動
 * https://user170742.psee.io/KObookclub
 * https://conference.ddd-tw.com/2023/zh-Hant
-* https://modernweb.tw/CFP
+* https://dddtaiwan.kktix.cc/events/dddtwconf2023
+* https://modernweb.tw
 * https://jcconf.tw/2023/
-* https://mopcon.kktix.cc/events/mopcon2023-cfp
+* https://twjug.kktix.cc/events/jcconf-2023
+* https://mopcon.org/2023/
 
 新聞
-* h
+* https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439
+* https://technews.tw/2023/08/20/ford-says-cars-with-wifi-vulnerability-still-safe-to-drive
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
