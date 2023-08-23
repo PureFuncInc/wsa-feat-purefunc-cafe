@@ -4,7 +4,7 @@
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe
 
-本日主題是 -> 大家好，我叫做 誼郎馬斯克 👽
+本日主題是 -> 輝達8/23 將公布第二季財報 💵
 
 近期活動
 * https://user170742.psee.io/KObookclub
@@ -21,7 +21,7 @@
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
-* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2023/index.html
+* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaw2s.com/2023/index.html
 
 子活動部分
 
