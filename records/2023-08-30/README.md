@@ -23,7 +23,7 @@
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
-* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaw2s.com/2023/index.html
+* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2023/index.html
 
 子活動部分
 
