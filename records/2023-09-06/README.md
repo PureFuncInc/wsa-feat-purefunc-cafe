@@ -22,6 +22,10 @@
 * https://www.ithome.com.tw/news/158561
 * https://blog.gslin.org/archives/2023/09/06/11339/opentf-%e9%96%8b%e5%bc%b5/
 * https://www.ithome.com.tw/news/158559
+* https://www.ithome.com.tw/news/158379
+* https://www.ithome.com.tw/news/158461
+* https://www.ithome.com.tw/news/158434
+* https://www.ithome.com.tw/news/158424
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
