@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 08/30 🪄 - R.I.P., WordPad 🪦
+🪄 WSA ft. $_purefunc Cafe 09/06 🪄 - R.I.P., WordPad 🪦
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -17,8 +17,11 @@
 * https://jcconf.tw/2023/
 * https://mopcon.org/2023/
 
-新聞
-* aa
+題目
+* 職業病
+* https://www.ithome.com.tw/news/158561
+* https://blog.gslin.org/archives/2023/09/06/11339/opentf-%e9%96%8b%e5%bc%b5/
+* https://www.ithome.com.tw/news/158559
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
