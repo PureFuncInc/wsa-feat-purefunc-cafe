@@ -14,10 +14,11 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
+| [``🎞``]() | [``035 2023 0913``](records/2023-09-13/README.md) | 你也有職業Bean嗎 🫘 |
 | [``🎞``]() | [``034 2023 0906``](records/2023-09-06/README.md) | R.I.P., WordPad 🪦 |
-| [``🎞``]() | [``033 2023 0830``](records/2023-08-30/README.md) | 交易系統異常，綠界科技遭17LIVE提告 👔 |
-| [``🎞``]() | [``032 2023 0823``](records/2023-08-23/README.md) | 輝達8/23 將公布第二季財報 💵 |
-| [``🎞``]() | [``031 2023 0816``](records/2023-08-16/README.md) | 大家好，我叫做 誼郎馬斯克 👽 |
+| [``🎞``](https://youtu.be/JBp8cV955hs) | [``033 2023 0830``](records/2023-08-30/README.md) | 交易系統異常，綠界科技遭17LIVE提告 👔 |
+| [``🎞``](https://youtu.be/az20tDFjSxg) | [``032 2023 0823``](records/2023-08-23/README.md) | 輝達8/23 將公布第二季財報 💵 |
+| [``🎞``](https://youtu.be/14KQsHyTNTg) | [``031 2023 0816``](records/2023-08-16/README.md) | 大家好，我叫做 誼郎馬斯克 👽 |
 | [``🎞``](https://youtu.be/FHDiijdcDTc) | [``030 2023 0809``](records/2023-08-09/README.md) | 鐵籠戰真的要打了嗎 ⛓ |
 | [``🎞``](https://youtu.be/D2HZbbE9h-s) | [``029 2023 0802``](records/2023-08-02/README.md) | 法說會變法會，突如其來的颱風假 💨 |
 | [``🎞``](https://youtu.be/tZtUF2gyJeg) | [``028 2023 0726``](records/2023-07-26/README.md) | x.com 🙅‍♂️ |
