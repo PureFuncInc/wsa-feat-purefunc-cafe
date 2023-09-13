@@ -19,7 +19,7 @@
 
 題目
 * 職業Bean
-* h
+* https://web3plus.bnext.com.tw/article/1530?
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
