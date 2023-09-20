@@ -8,7 +8,7 @@
 * 大家晚安，又到了每個禮拜三晚上的 WSA feat. $_purefunc 純函式咖啡
 * 讓我們談時事，聊生活，報明牌，交換圈內大小情報 🦻
 
-本日主題是 -> 你也有職業Bean嗎 🫘
+本日主題是 -> 今天來看馬誼郎的紫微命盤 🔮
 
 近期活動
 * https://user170742.psee.io/KObookclub
@@ -18,11 +18,7 @@
 * https://mopcon.org/2023/
 
 題目
-* 職業Bean
-* https://www.tiobe.com/tiobe-index/
-* https://web3plus.bnext.com.tw/article/1530
-* https://www.facebook.com/photo?fbid=7336997049649452&set=pcb.6563169200429849
-* https://www.facebook.com/photo?fbid=7336996676316156&set=pcb.6563169200429849
+* 社群理念
 
 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman
