@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 09/27 🪄 - 
+🪄 WSA ft. $_purefunc Cafe 09/27 🪄 - 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -8,11 +8,11 @@
 * 大家晚安，又到了每個禮拜三晚上的 WSA feat. $_purefunc 純函式咖啡
 * 讓我們談時事，聊生活，報明牌，交換圈內大小情報 🦻
 
-本日主題是 -> 今天來看馬誼郎的紫微命盤 🔮
+本日主題是 -> 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶
 
 題目
 * 網友投稿
-於向下相容
+關於向下相容
 ```
 context ：
 app：
