@@ -13,6 +13,8 @@
 題目
 * https://news.cnyes.com/news/id/5334157
 * https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/
+* https://www.ithome.com.tw/news/158880
+* https://orbstack.dev/
 * 網友投稿
 關於向下相容
 ```
