@@ -11,6 +11,8 @@
 本日主題是 -> 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶
 
 題目
+* https://news.cnyes.com/news/id/5334157
+* https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/
 * 網友投稿
 關於向下相容
 ```
@@ -67,6 +69,10 @@ App 有需要切分支嗎？
 :five: 無情工商
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/15
 * https://discord.com/channels/937992003415838761/1093901418848587826
+* https://footinder.app
+* https://blog.footinder.com.tw
+* https://hotpot.footinder.com.tw
+* https://drink.footinder.com.tw
 
 :six: 廣播電台
 * 活在多重維度的芸芸眾生會不會永遠沒有 context 交集的那天？
