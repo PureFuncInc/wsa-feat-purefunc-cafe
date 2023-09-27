@@ -10,6 +10,33 @@
 
 本日主題是 -> 今天來看馬誼郎的紫微命盤 🔮
 
+題目
+* 網友投稿
+於向下相容
+```
+context ：
+app：
+沒有做分支控管，一更新就是dev, stg, prod 三個站台都更新
+
+backend：
+有做分支控管
+分別是dev, stg, prod，對應所屬站台
+
+problem：
+要改某支API的回傳格式，比如說 event_id=1 改成 eventId=1 ，就改一個大小寫！
+
+當backend上正式，而app審核會有一段時間，prod可能會有一段時間爆炸。
+
+當backend上stg, dev要進行測試，但怕prod有問題，而請app先不要改，stg 和 dev就無法進行測試
+
+還有一個棘手的問題⋯app和backend 更新時間會有所不同，可能今天app有bug，就要先更新惹，所以⋯要向上相容（這做得到？）還是向下相容⋯不知道該怎麼辦😂😂
+
+summary：
+想請問
+footinder是如何做相容的？
+App 有需要切分支嗎？
+```
+
 近期活動
 * https://user170742.psee.io/KObookclub
 * https://modernweb.tw
@@ -47,32 +74,7 @@
 * 就算是再好的人， 只要有在好好努力， 在某人的故事裡也會變成壞人
 
 :seven: 迷你問答
-* 關於向下相容
-```
-context ：
-app：
-沒有做分支控管，一更新就是dev, stg, prod 三個站台都更新
-
-backend：
-有做分支控管
-分別是dev, stg, prod，對應所屬站台
-
-
-problem：
-要改某支API的回傳格式，比如說 event_id=1 改成 eventId=1 ，就改一個大小寫！
-
-當backend上正式，而app審核會有一段時間，prod可能會有一段時間爆炸。
-
-當backend上stg, dev要進行測試，但怕prod有問題，而請app先不要改，stg 和 dev就無法進行測試
-
-還有一個棘手的問題⋯app和backend 更新時間會有所不同，可能今天app有bug，就要先更新惹，所以⋯要向上相容（這做得到？）還是向下相容⋯不知道該怎麼辦😂😂
-
-
-summary：
-想請問
-footinder是如何做相容的？
-App 有需要切分支嗎？
-```
+* 無
 
 最後，活動時間跟連結在這邊呦
 
