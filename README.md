@@ -14,10 +14,10 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
-| [```🎞```]() | [```037 2023 0927```](records/2023-09-27/README.md) | 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶 |
-| [```🎞```]() | [```036 2023 0920```](records/2023-09-20/README.md) | 今天來看馬誼郎的紫微命盤 🔮 |
-| [```🎞```]() | [```035 2023 0913```](records/2023-09-13/README.md) | 你也有職業Bean嗎 🫘 |
-| [```🎞```]() | [```034 2023 0906```](records/2023-09-06/README.md) | R.I.P., WordPad 🪦 |
+| [```🎞```](https://youtu.be/z7TYnjADVMg) | [```037 2023 0927```](records/2023-09-27/README.md) | 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶 |
+| [```🎞```](https://youtu.be/aEwDt0JpLtI) | [```036 2023 0920```](records/2023-09-20/README.md) | 今天來看馬誼郎的紫微命盤 🔮 |
+| [```🎞```](https://youtu.be/ASz4pfANDQk) | [```035 2023 0913```](records/2023-09-13/README.md) | 你也有職業Bean嗎 🫘 |
+| [```🎞```](https://youtu.be/5kW836zYyJs) | [```034 2023 0906```](records/2023-09-06/README.md) | R.I.P., WordPad 🪦 |
 | [```🎞```](https://youtu.be/JBp8cV955hs) | [```033 2023 0830```](records/2023-08-30/README.md) | 交易系統異常，綠界科技遭17LIVE提告 👔 |
 | [```🎞```](https://youtu.be/az20tDFjSxg) | [```032 2023 0823```](records/2023-08-23/README.md) | 輝達8/23 將公布第二季財報 💵 |
 | [```🎞```](https://youtu.be/14KQsHyTNTg) | [```031 2023 0816```](records/2023-08-16/README.md) | 大家好，我叫做 誼郎馬斯克 👽 |
