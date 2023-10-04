@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 09/27 🪄 - 東市買駿馬 西市買鞍韉 南市買轡頭 北市上班上課 🥹
+🪄 WSA ft. $_purefunc Cafe 10/04 🪄 - 東市買駿馬 西市買鞍韉 南市買轡頭 北市上班上課 😹
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
