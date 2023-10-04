@@ -14,6 +14,7 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
+| [```🎞```]() | [```038 2023 1004```](records/2023-10-04/README.md) | 東市買駿馬 西市買鞍韉 南市買轡頭 北市上班上課 😹 |
 | [```🎞```](https://youtu.be/z7TYnjADVMg) | [```037 2023 0927```](records/2023-09-27/README.md) | 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶 |
 | [```🎞```](https://youtu.be/aEwDt0JpLtI) | [```036 2023 0920```](records/2023-09-20/README.md) | 今天來看馬誼郎的紫微命盤 🔮 |
 | [```🎞```](https://youtu.be/ASz4pfANDQk) | [```035 2023 0913```](records/2023-09-13/README.md) | 你也有職業Bean嗎 🫘 |
