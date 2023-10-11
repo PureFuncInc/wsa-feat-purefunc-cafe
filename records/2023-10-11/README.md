@@ -12,7 +12,6 @@
 
 題目
 * https://www.passkeys.io/
-* 
 
 近期活動
 * https://jcconf.tw/2023/
