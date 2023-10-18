@@ -14,6 +14,12 @@
 * https://github.com/ByteByteGoHq/system-design-101
 * https://mp.weixin.qq.com/s/QYPyvFFyyqWwQ6Z3iHXDQA
 * https://www.bing.com/create
+* https://tw.news.yahoo.com/ai%E6%95%99%E7%88%B6%E9%BB%83%E4%BB%81%E5%8B%B3%E5%86%8D%E7%8F%BE%E5%A4%9C%E5%B8%82-%E6%87%B7%E5%BF%B5%E5%8F%B0%E5%8D%97-%E9%80%99-%E5%91%B3-092542108.html
+* https://www.ithome.com.tw/news/159335
+* https://blog.gslin.org/archives/2023/10/12/11390/starlink-%e5%ae%a3%e4%bd%88%e4%ba%86-lte-%e6%9c%8d%e5%8b%99/
+* https://www.ithome.com.tw/news/159282
+* https://www.ithome.com.tw/news/159326
+* https://www.ithome.com.tw/news/159310
 
 近期活動
 * https://modernweb.tw
@@ -46,7 +52,9 @@
 :five: 無情工商
 * https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/15
 * https://discord.com/channels/937992003415838761/1093901418848587826
+* https://footinder.tw
 * https://footinder.app
+* https://footinder.net/thailand/th_TH/
 * https://blog.footinder.com.tw
 * https://hotpot.footinder.com.tw
 * https://drink.footinder.com.tw
