@@ -11,7 +11,10 @@
 本日主題是 -> 北捷 iPhone 交通卡掰掰 💥
 
 題目
-* h
+* https://tech.udn.com/tech/story/123154/7518082
+* https://tw.news.yahoo.com/%E7%A0%B4%E5%A4%A9%E8%8D%92-%E6%82%A0%E9%81%8A%E5%8D%A1%E5%84%B2%E5%80%BC%E9%81%AD%E9%A7%AD%E5%AE%A2%E7%A0%B4%E8%A7%A3-060431926.html
+* https://hhkeyboard.us/hhkb-studio
+* https://blog.gslin.org/archives/2023/10/21/11401/isp-%e5%81%bd%e9%80%a0%e5%87%ba%e5%90%88%e6%b3%95%e7%9a%84-ssl-certificate%ef%bc%8c%e5%b0%8d%e6%94%be%e5%9c%a8%e5%be%b7%e5%9c%8b%e7%9a%84-xmpp-ru-%e9%80%b2%e8%a1%8c-mitm-%e7%9b%a3%e8%81%bd/
 
 近期活動
 * https://modernweb.tw
