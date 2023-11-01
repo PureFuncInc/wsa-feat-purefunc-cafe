@@ -14,11 +14,12 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
+| [```🎞```]() | [```042 2023 1101```](records/2023-11-01/README.md) | MacBook Pro M3 來拉 💳 |
 | [```🎞```]() | [```041 2023 1025```](records/2023-10-25/README.md) | 北捷 iPhone 交通卡掰掰 💥 |
 | [```🎞```]() | [```040 2023 1018```](records/2023-10-18/README.md) | 鐵人賽完結，大家都很棒 🫶 |
 | [```🎞```]() | [```039 2023 1011```](records/2023-10-11/README.md) | 你們是不是以為今天是禮拜一 ☝️ |
 | [```🎞```]() | [```038 2023 1004```](records/2023-10-04/README.md) | 東市買駿馬 西市買鞍韉 南市買轡頭 北市上班上課 😹 |
-| [```🎞```](https://youtu.be/z7TYnjADVMg) | [```037 2023 0927```](records/2023-09-27/README.md) | 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐶 |
+| [```🎞```](https://youtu.be/z7TYnjADVMg) | [```037 2023 0927```](records/2023-09-27/README.md) | 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐕 |
 | [```🎞```](https://youtu.be/aEwDt0JpLtI) | [```036 2023 0920```](records/2023-09-20/README.md) | 今天來看馬誼郎的紫微命盤 🔮 |
 | [```🎞```](https://youtu.be/ASz4pfANDQk) | [```035 2023 0913```](records/2023-09-13/README.md) | 你也有職業Bean嗎 🫘 |
 | [```🎞```](https://youtu.be/5kW836zYyJs) | [```034 2023 0906```](records/2023-09-06/README.md) | R.I.P., WordPad 🪦 |
@@ -46,7 +47,7 @@
 | [```🎞```](https://youtu.be/HXFkSg1w6Fw) | [```012 2023 0405```](records/2023-04-05/README.md) | 看到推特 icon 變成 doge 你的感想是 🐶 |
 | [```🎞```](https://youtu.be/ABtimJz1MAA) | [```011 2023 0322```](records/2023-03-22/README.md) | 來了來了，法律戰要來了，OpenAI 不再 Open 🈲 |
 | [```🎞```](https://youtu.be/mIm87eNv7KE) | [```010 2023 0315```](records/2023-03-15/README.md) | SVB 爆炸中之一波未平一波又起 🚨 |
-| [```🎞```](https://youtu.be/JYjsXoI8Too) | [```009 2023 0308```](records/2023-03-08/README.md) | 還是我們來跟 ChatGPT 面試一下 🔮 |
+| [```🎞```](https://youtu.be/JYjsXoI8Too) | [```009 2023 0308```](records/2023-03-08/README.md) | 還是我們來跟 ChatGPT 面試一下 👓 |
 | [```🎞```](https://youtu.be/iI6FBCOicgY) | [```008 2023 0301```](records/2023-03-01/README.md) | 接下來等著看AI大爆發，大家都要有 ChatXXX ☄️ |
 | [```🎞```](https://youtu.be/lVBMboSfMF8) | [```007 2023 0222```](records/2023-02-22/README.md) | 既 Twitter 之後 Meta 也要裁員拉 😱 |
 | [```🎞```](https://youtu.be/Ae27ofdcW4I) | [```006 2023 0215```](records/2023-02-15/README.md) | 以後發表會的時候記得先把手機收好 📱 |
