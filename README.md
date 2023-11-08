@@ -14,7 +14,7 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
-| [```🎞```]() | [```043 2023 1108```](records/2023-11-08/README.md) | ChatGPT 發布會把大家變成傻瓜 🎃 |
+| [```🎞```]() | [```043 2023 1108```](records/2023-11-08/README.md) | ChatGPT 發布會把一堆假新創變成傻瓜 🎃 |
 | [```🎞```]() | [```042 2023 1101```](records/2023-11-01/README.md) | MacBook Pro M3 來拉 💳 |
 | [```🎞```](https://youtu.be/BpQU1gP1ozM) | [```041 2023 1025```](records/2023-10-25/README.md) | 北捷 iPhone 交通卡掰掰 💥 |
 | [```🎞```](https://youtu.be/cfT-W9QMFFU) | [```040 2023 1018```](records/2023-10-18/README.md) | 鐵人賽完結，大家都很棒 🫶 |
