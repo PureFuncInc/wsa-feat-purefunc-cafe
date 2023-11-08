@@ -14,11 +14,12 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
+| [```🎞```]() | [```043 2023 1108```](records/2023-11-08/README.md) | ChatGPT 發布會把大家變成傻瓜 🎃 |
 | [```🎞```]() | [```042 2023 1101```](records/2023-11-01/README.md) | MacBook Pro M3 來拉 💳 |
-| [```🎞```]() | [```041 2023 1025```](records/2023-10-25/README.md) | 北捷 iPhone 交通卡掰掰 💥 |
-| [```🎞```]() | [```040 2023 1018```](records/2023-10-18/README.md) | 鐵人賽完結，大家都很棒 🫶 |
-| [```🎞```]() | [```039 2023 1011```](records/2023-10-11/README.md) | 你們是不是以為今天是禮拜一 ☝️ |
-| [```🎞```]() | [```038 2023 1004```](records/2023-10-04/README.md) | 東市買駿馬 西市買鞍韉 南市買轡頭 北市上班上課 😹 |
+| [```🎞```](https://youtu.be/BpQU1gP1ozM) | [```041 2023 1025```](records/2023-10-25/README.md) | 北捷 iPhone 交通卡掰掰 💥 |
+| [```🎞```](https://youtu.be/cfT-W9QMFFU) | [```040 2023 1018```](records/2023-10-18/README.md) | 鐵人賽完結，大家都很棒 🫶 |
+| [```🎞```](https://youtu.be/bw1tPLUMduY) | [```039 2023 1011```](records/2023-10-11/README.md) | 你們是不是以為今天是禮拜一 ☝️ |
+| [```🎞```](https://youtu.be/jIHjrc4gxNg) | [```038 2023 1004```](records/2023-10-04/README.md) | 東市買駿馬 西市買鞍韉 南市買轡頭 北市上班上課 😹 |
 | [```🎞```](https://youtu.be/z7TYnjADVMg) | [```037 2023 0927```](records/2023-09-27/README.md) | 如果上天再給我一次重來的機會，我想對那個面試官說，你們有用 Datadog 嗎 🐕 |
 | [```🎞```](https://youtu.be/aEwDt0JpLtI) | [```036 2023 0920```](records/2023-09-20/README.md) | 今天來看馬誼郎的紫微命盤 🔮 |
 | [```🎞```](https://youtu.be/ASz4pfANDQk) | [```035 2023 0913```](records/2023-09-13/README.md) | 你也有職業Bean嗎 🫘 |
