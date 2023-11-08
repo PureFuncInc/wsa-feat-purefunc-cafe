@@ -11,6 +11,7 @@
 本日主題是 -> ChatGPT 發布會把一堆假新創變成傻瓜 🎃
 
 題目
+* https://applealmond.com/posts/204685
 * https://blog.gslin.org/archives/2023/11/06/11430/cloudflare-%e5%89%8d%e5%b9%be%e5%a4%a9-api-%e8%88%87-dashboard-%e5%87%ba%e4%ba%8b%e7%9a%84-post-mortem-%e8%a8%98%e9%8c%84/
 * https://blog.gslin.org/archives/2023/11/08/11441/aws-%e5%ae%a3%e5%b8%83-eks-%e6%94%af%e6%8f%b4%e6%9c%9f%e5%be%9e-14-%e5%80%8b%e6%9c%88%e8%ae%8a%e6%88%90-26-%e5%80%8b%e6%9c%88/
 * https://blog.gslin.org/archives/2023/11/06/11432/歐盟決定將挪威對-meta-的禁令擴大到整個歐盟/
@@ -19,7 +20,7 @@
 * https://flashmuseum.org/
 * 資料庫是上個資訊時代智慧的結晶
   * Redis
-  * MongoDB 
+  * MongoDB
 
 近期活動
 * https://modernweb.tw
