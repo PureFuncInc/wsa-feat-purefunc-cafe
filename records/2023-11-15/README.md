@@ -11,7 +11,10 @@
 本日主題是 -> 中国大返し，一單不賣奇G自來 📈
 
 題目
-* h
+* https://www.ithome.com.tw/news/159829
+* https://mp.weixin.qq.com/s/OIlR0rolEQff9YfCpj3wIQ
+* https://github.com/chubin/wttr.in
+* https://open.substack.com/pub/bytebytego/p/79-engineering-blogs-to-level-up
 
 近期活動
 * https://modernweb.tw
@@ -49,7 +52,7 @@
 * https://footinder.app
 
 :six: 廣播電台
-* 無
+* 一起來幫 IDE 虛華一下
 
 :seven: 迷你問答
 * 無
