@@ -14,8 +14,9 @@
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
-| [```🎞```]() | [```043 2023 1108```](records/2023-11-08/README.md) | ChatGPT 發布會把一堆假新創變成傻瓜 🎃 |
-| [```🎞```]() | [```042 2023 1101```](records/2023-11-01/README.md) | MacBook Pro M3 來拉 💳 |
+| [```🎞```]() | [```044 2023 1115```](records/2023-11-15/README.md) | 中国大返し，一單不賣奇G自來 📈 |
+| [```🎞```](https://youtu.be/q1WHxxsFES4) | [```043 2023 1108```](records/2023-11-08/README.md) | ChatGPT 發布會把一堆假新創變成傻瓜 🎃 |
+| [```🎞```](https://youtu.be/Kv9hGG8k3og) | [```042 2023 1101```](records/2023-11-01/README.md) | MacBook Pro M3 來拉 💳 |
 | [```🎞```](https://youtu.be/BpQU1gP1ozM) | [```041 2023 1025```](records/2023-10-25/README.md) | 北捷 iPhone 交通卡掰掰 💥 |
 | [```🎞```](https://youtu.be/cfT-W9QMFFU) | [```040 2023 1018```](records/2023-10-18/README.md) | 鐵人賽完結，大家都很棒 🫶 |
 | [```🎞```](https://youtu.be/bw1tPLUMduY) | [```039 2023 1011```](records/2023-10-11/README.md) | 你們是不是以為今天是禮拜一 ☝️ |
