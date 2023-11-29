@@ -15,6 +15,7 @@
 * PM
 * 捷徑
 * https://www.jetbrains.com/lp/devecosystem-2023/
+* https://www.ithome.com.tw/news/160004
 
 近期活動
 * https://gdg.tw/annual_activity/devfest/
