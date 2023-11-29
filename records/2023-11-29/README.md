@@ -16,6 +16,7 @@
 * 捷徑
 * https://www.jetbrains.com/lp/devecosystem-2023/
 * https://www.ithome.com.tw/news/160004
+* https://blog.huli.tw/2023/11/27/server-side-rendering-ssr-and-isomorphic/
 
 近期活動
 * https://gdg.tw/annual_activity/devfest/
