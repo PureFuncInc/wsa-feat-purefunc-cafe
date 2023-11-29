@@ -50,7 +50,7 @@
 * https://footinder.app
 
 :six: 廣播電台
-* 一起來幫 IDE 虛華一下
+* 無
 
 :seven: 迷你問答
 * 無
