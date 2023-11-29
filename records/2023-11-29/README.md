@@ -14,6 +14,7 @@
 * google rcs apple
 * PM
 * 捷徑
+* https://www.jetbrains.com/lp/devecosystem-2023/
 
 近期活動
 * https://gdg.tw/annual_activity/devfest/
