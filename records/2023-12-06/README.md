@@ -13,7 +13,7 @@
 
 題目
 * 捷徑
-* 
+* https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/16
 
 近期活動
 * https://gdg.tw/annual_activity/devfest/
