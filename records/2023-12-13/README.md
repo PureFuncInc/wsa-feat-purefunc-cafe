@@ -47,7 +47,7 @@
 * https://footinder.app
 
 :six: 廣播電台
-* API, 300 RPS, TX, MySQL, Goloang
+* API, 300 RPS, TX, MySQL, Golang, 壓測, 單表百萬
 
 :seven: 迷你問答
 * 無
