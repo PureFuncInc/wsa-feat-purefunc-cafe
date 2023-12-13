@@ -16,13 +16,13 @@
 * 今天有投稿
 * https://tw.news.yahoo.com/google%E5%9C%A8epic-games%E8%A8%B4%E8%A8%9F%E6%85%98%E6%95%97-%E7%82%BA%E4%BD%95%E8%98%8B%E6%9E%9C%E5%AE%8C%E5%8B%9D-%E9%96%8B%E6%94%BE%E9%8C%AF%E4%BA%86%E5%97%8E-%E4%BB%98%E8%B2%BB%E6%98%AF%E8%B3%84%E8%B3%82-031355845.html
 * https://www.ithome.com.tw/news/160261
+* https://www.kocpc.com.tw/archives/494533
 * https://support.apple.com/zh-tw/104993
-* 
 
 近期活動
 * https://gdg.tw/annual_activity/devfest/
 * https://2023.rubyconf.tw/
-* https://conf.sciwork.dev/
+* https://sciwork.kktix.cc/events/scisprint-202312-taipei
 
 子活動部分
 
@@ -47,7 +47,7 @@
 * https://footinder.app
 
 :six: 廣播電台
-* 無
+* API, 300 RPS, TX, MySQL, Goloang
 
 :seven: 迷你問答
 * 無
