@@ -5,15 +5,18 @@
 * 2022 我們做了一年 51 次的 [純函式咖啡](https://github.com/PureFuncInc/purefunc-cafe)，感謝所有一路陪著我們走過來的朋友們
 * 回顧這一年，我們的內容大概有這幾種類型：來賓訪談、時事延伸、分享社群消息、即興互動、純函式技術週報
 * 今年我們會基於過去的基礎，在跟水球軟體學院合作的過程中碰撞出更多點子，敬請大家期待
+* 2023 Go Go Go
 
 # Introduction
-* 舉辦時間: 2023 每週三 晚上九點
+* 舉辦時間: 2023-2024 每週三 晚上九點
 * 舉辦地點: [水球軟體學院 Discord](https://discord.gg/waterballsa)
 * 活動錄影: [YouTube 播放清單](https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN)
 
 # Record
 | 影片 | 紀錄 | 主題 |
 | :--- | :---: | :--- |
+| [```🎞```]() | [```051 2024 0103```](records/2024-01-03/README.md) | 搖身一變 Gemini 大使 🤵 |
+| [```🎞```]() | [```050 2023 1227```](https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/16) | 2023 WSA feat. $_purefunc Cafe 尾牙 🍲 |
 | [```🎞```]() | [```049 2023 1220```](records/2023-12-20/README.md) | 熊貓貓感覺不妙 🐼 |
 | [```🎞```]() | [```048 2023 1213```](records/2023-12-13/README.md) | 今年偶棉G社整個水逆 🌘 |
 | [```🎞```]() | [```047 2023 1206```](records/2023-12-06/README.md) | 比特幣重回四萬拉～💹 |
