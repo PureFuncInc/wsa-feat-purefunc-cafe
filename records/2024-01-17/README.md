@@ -12,12 +12,14 @@
 本日主題是 -> 外資大逃殺 💸
 
 題目
-* 裁員
-* ETF
-* 都是自己人
+* 選舉結束，大家都不開心
+* 社會議題
+* https://udn.com/news/story/7321/7715256
+* https://tw.news.yahoo.com/%E5%8D%97-%E6%9B%B8%E5%B1%80%E7%B6%93%E7%90%86%E7%AD%894%E4%BA%BA%E6%B6%89%E7%8A%AF%E7%87%9F%E6%A5%AD%E7%A7%98%E5%AF%86%E7%BD%AA-%E5%B8%B6%E6%A7%8D%E6%8A%95%E9%9D%A0-%E9%81%AD%E8%B5%B7%E8%A8%B4-064837602.html
+* Google Search 排名一百
 
 近期活動
-* https://sciwork.kktix.cc/events/scisprint-202312-taipei
+* _
 
 子活動部分
 
@@ -37,15 +39,17 @@
 * https://discord.com/channels/937992003415838761/1098799697616982127
 
 :five: 無情工商
-* https://github.com/PureFuncInc/wsa-feat-purefunc-cafe/issues/15
-* https://discord.com/channels/937992003415838761/1093901418848587826
 * https://footinder.app
+* https://baominpai.com
+* https://3cm.gg
+* https://taiwanissues.com
 
 :six: 廣播電台
 * 無
 
 :seven: 迷你問答
-* 刷臉
+* github page -> 
+* cloudflare -> backend
 
 :eight: 鐵人賽觀賽區
 * https://ithelp.ithome.com.tw/2023ironman/reward
