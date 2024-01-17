@@ -13,7 +13,7 @@
 
 題目
 * 選舉結束，大家都不開心
-  * 從選舉看技術
+  * 從選舉看技術(數據可視化)
     * [Socialcounts](https://socialcounts.org/youtube-live-subscriber-count/UCnnp2fWa77PP2h08T7WAzzw)
     * [ViewStats](https://www.bnext.com.tw/article/78000/viewstats-mrbeast-youtube-video-data-analysis)
     * [KOL radar](https://www.kolradar.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYKq-R_qPCXlLkRlebg6So22ijdJQSLkDXlYo7PPW6T4LhTxocuNzMaAjwTEALw_wcB)
