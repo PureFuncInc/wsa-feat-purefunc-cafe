@@ -14,11 +14,11 @@
 題目
 * 選舉結束，大家都不開心
   * 從選舉看技術
-   * [Socialcounts](https://socialcounts.org/youtube-live-subscriber-count/UCnnp2fWa77PP2h08T7WAzzw)
-   * [ViewStats](https://www.bnext.com.tw/article/78000/viewstats-mrbeast-youtube-video-data-analysis)
-   * [KOL radar](https://www.kolradar.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYKq-R_qPCXlLkRlebg6So22ijdJQSLkDXlYo7PPW6T4LhTxocuNzMaAjwTEALw_wcB)
-   * [Sol Scan](https://solscan.io/)
-   * [dune](https://dune.com/lightsoutjames/STEPN-Dashboard)
+    * [Socialcounts](https://socialcounts.org/youtube-live-subscriber-count/UCnnp2fWa77PP2h08T7WAzzw)
+    * [ViewStats](https://www.bnext.com.tw/article/78000/viewstats-mrbeast-youtube-video-data-analysis)
+    * [KOL radar](https://www.kolradar.com/?gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYKq-R_qPCXlLkRlebg6So22ijdJQSLkDXlYo7PPW6T4LhTxocuNzMaAjwTEALw_wcB)
+    * [Sol Scan](https://solscan.io/)
+    * [dune](https://dune.com/lightsoutjames/STEPN-Dashboard)
 * 社會議題
 * https://udn.com/news/story/7321/7715256
 * https://tw.news.yahoo.com/%E5%8D%97-%E6%9B%B8%E5%B1%80%E7%B6%93%E7%90%86%E7%AD%894%E4%BA%BA%E6%B6%89%E7%8A%AF%E7%87%9F%E6%A5%AD%E7%A7%98%E5%AF%86%E7%BD%AA-%E5%B8%B6%E6%A7%8D%E6%8A%95%E9%9D%A0-%E9%81%AD%E8%B5%B7%E8%A8%B4-064837602.html
