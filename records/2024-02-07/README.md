@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 02/07 🪄 - 龍年到 了 🐲🐲🐲
+🪄 WSA ft. $_purefunc Cafe 02/07 🪄 - 龍年到 🐲🐲🐲
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -9,7 +9,7 @@
 * 讓我們談時事，聊生活，報明牌，交換圈內大小情報 🦻
 * 投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書
 
-本日主題是 -> 2龍年到 了 🐲🐲🐲
+本日主題是 -> 龍年到 🐲🐲🐲
 
 題目
 * 選
