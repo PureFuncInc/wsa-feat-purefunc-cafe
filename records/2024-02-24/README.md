@@ -12,6 +12,7 @@
 本日主題是 -> AI 大亂鬥，昨天法說變法會 👺
 
 題目
+* https://techblog.funliday.com/2024/02/16/%E6%8A%8A-Web-%E5%BA%95%E5%B1%A4%E9%87%8D%E6%A7%8B%EF%BC%8C%E5%BE%9E%E5%89%8D%E5%BE%8C%E7%AB%AF%E5%88%86%E9%9B%A2%E8%AE%8A%E6%88%90-SSR/?fbclid=IwAR0bY26bJq5Hnf8gDN0zkBTa6dHcUXeaVPBLYATEjluiIejSYYEVxsT3Pxs
 * 你最討厭的 BQ 題 (STAR 原則)
   * 你覺得你最大的優點
   * 你覺得你最大的缺點
