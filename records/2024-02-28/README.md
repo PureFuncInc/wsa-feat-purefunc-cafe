@@ -12,22 +12,8 @@
 本日主題是 -> AI 大亂鬥，昨天法說變法會 👺
 
 題目
-* https://techblog.funliday.com/2024/02/16/%E6%8A%8A-Web-%E5%BA%95%E5%B1%A4%E9%87%8D%E6%A7%8B%EF%BC%8C%E5%BE%9E%E5%89%8D%E5%BE%8C%E7%AB%AF%E5%88%86%E9%9B%A2%E8%AE%8A%E6%88%90-SSR/?fbclid=IwAR0bY26bJq5Hnf8gDN0zkBTa6dHcUXeaVPBLYATEjluiIejSYYEVxsT3Pxs
-* 你最討厭的 BQ 題 (STAR 原則)
-  * 你覺得你最大的優點
-  * 你覺得你最大的缺點
-  * 工作中遇過最挫折的經驗是什麼？／最大的失敗是什麼？
-  * 請問你離開上一份工作的原因是什麼？
-  * 為什麼想來我們公司工作？對公司的瞭解是什麼？
-  * 可以接受加班嗎？對加班有什麼看法？
-  * 如果一直達不到工作目標，你會怎麼辦？
-  * 履歷上的空窗期在做什麼？
-  * 請你說明較短的工作經歷？
-  * 請問你未來3~5年有什麼規劃？
-  * 還有什麼問題想問我的嗎？
-  * https://www.facebook.com/share/tyH3C7gJ254DiGdE/?mibextid=WC7FNe
-  * https://www.facebook.com/groups/f2e.tw/permalink/6777587605611880
-* 獵頭 
+* https://www.youtube.com/watch?v=NQsB9fabF9g
+* https://www.youtube.com/watch?v=AbNB7EgsPR8&t=17m
 
 近期活動
 * 無
