@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 03/06 🪄 - 各位旅客您好，歡迎搭乘韭菜高鐵 🚄
+🪄 WSA ft. $_purefunc Cafe 03/27 🪄 - 吃個飯吃出事？？？🍜
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -12,9 +12,7 @@
 本日主題是 -> 各位旅客您好，歡迎搭乘韭菜高鐵 🚄
 
 題目
-* https://blog.gslin.org/archives/2024/02/26/11679/%e5%90%84%e5%ae%b6%e9%a6%96%e9%a0%81-javascript-%e7%9a%84%e5%a4%a7%e5%b0%8f
-* https://www.facebook.com/groups/gaitech/permalink/1106862103831337/
-* https://www.ithome.com.tw/news/160808
+* https://hackmd.io/@SITCON/2024/%2F%40SITCON%2FByZROby6a
 
 近期活動
 * 無
