@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 04/10 🪄 - 不死鳥展翅，2330高飛 🦄
+🪄 WSA ft. $_purefunc Cafe 04/17 🪄 - 特斯拉裁員 😢
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
