@@ -14,7 +14,7 @@
 題目
 * https://restofworld.org/2024/tsmc-arizona-expansion/
 * AI 取代了誰？
-* 
+* CFP
 
 近期活動
 * 無
