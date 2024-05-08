@@ -29,7 +29,7 @@
 * https://discord.com/channels/937992003415838761/1067781868709220432
 * https://discord.com/channels/937992003415838761/1095987934307553320
 
-:three: Spring Boot from Oreo to Bravo
+:three: Spring Boot Kotlin from Oreo to Bravo
 * https://github.com/PureFuncInc/spring-boot-kotlin-oreo-to-bravo
 * https://discord.com/channels/937992003415838761/1105530685869006969
 
