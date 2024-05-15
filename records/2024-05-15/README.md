@@ -13,6 +13,11 @@
 
 題目
 * 研討會季節要開始了
+* https://www.ithome.com.tw/news/162849
+* https://www.ithome.com.tw/news/162852
+* https://www.ithome.com.tw/news/162756
+* https://www.ithome.com.tw/news/162737
+* https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDV%2C112%2C%E5%8B%9E%E8%A8%B4%2C365%2C20240503%2C2
 * [下酒菜](https://forms.gle/v5a57mZciw7QT1uD8)
 
 近期活動
