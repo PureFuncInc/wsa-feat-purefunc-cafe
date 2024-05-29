@@ -12,8 +12,11 @@
 本日主題是 -> 即使改錯了以後也能改回來，大家都是好朋友，生活還是要過下去 😄
 
 題目
+* https://kotlinlang.org/docs/whatsnew20.html
 * 研討會季節
-* 
+* https://tsmcitcommunitymeetup.kktix.cc/events/tsmc-it-meetup-taichung-03
+* https://www.ithome.com.tw/news/163142
+* https://www.ithome.com.tw/news/163138
 
 近期活動
 * 無
