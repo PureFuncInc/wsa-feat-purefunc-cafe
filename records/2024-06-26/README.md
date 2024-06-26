@@ -15,7 +15,9 @@
 * https://github.com/PureFuncInc/purefunc-net
 
 近期活動
-* 無
+* https://sre.ithome.com.tw/2024/
+* https://devopsdays.tw/2024/agenda
+* https://k8s.ithome.com.tw/2024/CFP/
 
 子活動部分
 
