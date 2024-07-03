@@ -12,7 +12,10 @@
 本日主題是 -> 2024 剩下 2.5 了 🔪
 
 題目
-* https://github.com/PureFuncInc/purefunc-net
+* https://www.ithome.com.tw/news/163590
+* https://www.youtube.com/@Tan_Dongdong/videos
+* WIFI 7
+* https://www.ithome.com.tw/news/163737
 
 近期活動
 * https://sre.ithome.com.tw/2024/
