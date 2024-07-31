@@ -12,7 +12,15 @@
 本日主題是 -> 奧運！中華健兒加油！🏓
 
 題目
-* 
+* CrowdStrike
+* suno
+* 繼續凹單
+* https://www.ithome.com.tw/news/164212
+* https://www.ithome.com.tw/news/164180
+* https://www.ithome.com.tw/news/164018
+* https://www.ithome.com.tw/news/164180
+* https://www.ithome.com.tw/news/164179
+* https://www.ithome.com.tw/news/164213
 
 近期活動
 * 
