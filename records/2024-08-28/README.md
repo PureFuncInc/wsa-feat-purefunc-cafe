@@ -15,6 +15,8 @@
 * 問問題
 * 新青安
 * Pair with AI
+* https://www.youtube.com/watch?v=oe20a1BWiSg
+* https://www.youtube.com/watch?v=I4vUZt_-Nis
 
 近期活動
 * DDD
