@@ -35,10 +35,10 @@
 * https://taiwanissues.com
 
 :three: 廣播電台
-* 
+* x
 
 :four: 迷你問答
-* 
+* x
 
 最後，活動時間跟連結在這邊呦
 
