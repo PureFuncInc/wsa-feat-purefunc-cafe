@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 10/09 🪄 - 中華民國 or 台灣 生日快樂 🇹🇼
+🪄 WSA ft. $_purefunc Cafe 10/09 🪄 - 中華民國 or 台灣 (以筆畫排序) 生日快樂 🇹🇼
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -9,7 +9,7 @@
 * 讓我們談時事，聊生活，報明牌，交換圈內大小情報 🦻
 * 投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書
 
-本日主題是 -> 中華民國 or 台灣 生日快樂 🇹🇼
+本日主題是 -> 中華民國 or 台灣 (以筆畫排序) 生日快樂 🇹🇼
 
 題目
 * G
