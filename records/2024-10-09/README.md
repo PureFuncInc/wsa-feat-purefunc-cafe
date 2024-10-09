@@ -12,7 +12,14 @@
 本日主題是 -> 中華民國 or 台灣 (以筆畫排序) 生日快樂 🇹🇼
 
 題目
-* G
+* GPT Advance Chat
+* https://notebooklm.google/
+* https://techcrunch.com/2024/10/08/x-is-cleared-to-go-back-online-in-brazil/
+* https://techcrunch.com/2024/09/26/starlink-will-hit-4-million-subscribers-this-week-spacex-president-says/
+* https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/
+* https://techcrunch.com/2024/09/22/linus-torvalds-explains-why-aging-linux-developers-are-a-good-thing/
+* https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/
+* https://techcrunch.com/2024/09/16/ios-18-review/
 
 近期活動
 * 
