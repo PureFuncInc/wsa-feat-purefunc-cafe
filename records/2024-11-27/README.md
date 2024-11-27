@@ -12,7 +12,7 @@
 本日主題是 -> 假設明年就要打仗，會怎麼樣 🙋
 
 題目
-* 
+* black friday software deals
 
 近期活動
 * x
