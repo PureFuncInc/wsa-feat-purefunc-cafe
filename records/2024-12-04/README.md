@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 12/04 🪄 - 戒嚴❓
+🪄 WSA ft. $_purefunc Cafe 12/04 🪄 - 韓國三小時戒嚴❓
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
@@ -9,7 +9,7 @@
 * 讓我們談時事，聊生活，報明牌，交換圈內大小情報 🦻
 * 投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書
 
-本日主題是 -> 戒嚴❓
+本日主題是 -> 韓國三小時戒嚴❓
 
 題目
 * 韓國戒嚴
