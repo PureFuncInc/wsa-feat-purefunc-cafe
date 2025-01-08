@@ -12,31 +12,42 @@
 本日主題是 -> 要買加拿大格陵蘭的話，有沒有考慮中華民國 or 台灣 (以筆畫排序) 🦅
 
 題目
-* x
+* diagram tool
+  * draw.io
+  * miro
+  * figma
+  * excalidraw
+  * other specific domain
+    * Mermaid, D2, ...
+    * dbdiagram
+* Wireframe, Mockup, Prototype  
+* https://www.elevationlab.com/blogs/news/introducing-timecapsule
+* https://en.wikipedia.org/wiki/Postzegelcode
+* https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html
+* https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know
+* https://www.xda-developers.com/permanently-save-items-clipboard-windows-11/
+* https://www.theibns.org/joomla/index.php
+* https://weiyen.net/articles/useful-macos-cmd-line-utilities/
 
 近期活動
 * x
 
 子活動部分
 
-:one: Spring Boot Kotlin from Oreo to Bravo
-* https://github.com/PureFuncInc/spring-boot-kotlin-oreo-to-bravo
-* https://discord.com/channels/937992003415838761/1105530685869006969
-
-:two: 無情工商
+:one: 無情工商
 * https://footinder.app
 * https://baominpai.com
 * https://3cm.gg
 * https://taiwanissues.com
 
-:three: 廣播電台
+:two: 廣播電台
 * x
 
-:four: 迷你問答
+:three: 迷你問答
 * x
 
 最後，活動時間跟連結在這邊呦
 
-:alarm_clock: 2024 每週三 晚上九點
+:alarm_clock: 2025 每週三 晚上九點
 :link: https://discord.gg/waterballsa?event=1123592511894593596
 
