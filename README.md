@@ -1,4 +1,4 @@
-# 2023-2024 WSA feat. $_purefunc Cafe
+# 2023-2025 WSA feat. $_purefunc Cafe
 ![](https://raw.githubusercontent.com/PureFuncInc/purefunc-cafe/main/images/logo.png)
 
 # Preface
