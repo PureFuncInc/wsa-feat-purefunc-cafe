@@ -1,4 +1,4 @@
-🪄 WSA ft. $_purefunc Cafe 05/14 🪄 - 電梯向上，準備再次偉大 😠
+🪄 WSA ft. $_purefunc Cafe 05/14 🪄 - 電梯向上，準備再次偉大 🇺🇸
 
 :movie_camera: 我們之前的紀錄跟影片在這邊
 * https://www.youtube.com/playlist?list=PLC3hT4Z5I-O64QSgj8IDMhGvtQLSXvUGN
